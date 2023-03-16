@@ -1,0 +1,15 @@
+main {
+  min-height: 80vh;
+}
+
+.cart-signin {
+  margin-left: 60rem;
+}
+
+h3 {
+  padding: 1rem;
+}
+
+.rating span {
+  margin: 0.1rem;
+}
