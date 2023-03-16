@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Cairo:wght@200&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Architects+Daughter&family=Carter+One&family=Chivo&family=Cinzel:wght@500&family=Goblin+One&family=Homemade+Apple&family=Kalam&family=Kdam+Thmor&family=Lato:wght@300&family=Lemonada:wght@300;400&family=Martel+Sans:wght@200;400&family=Merriweather&family=Monda:wght@700&family=Monoton&family=Oswald&family=Overpass+Mono&family=Oxygen:wght@700&family=PT+Serif&family=Passion+One&family=Press+Start+2P&family=Reggae+One&family=Rufina:wght@700&family=Satisfy&family=Sawarabi+Gothic&family=Spectral:ital,wght@1,200&display=swap');
+
+body {
+  font-family: Arial, sans-serif, 'Roboto Mono', monospace;
+  font-size: 14px;
+  color: #021965;
+}
+
+h1 {
+  color: #bf1722;
+  border-bottom: 2px solid #bf1722;
+  text-transform: capitalize;
+}
+.head {
+  background-color: #ffffff !important;
+}
+.header {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+header {
+  font-size: 16px;
+}
+label {
+  font-weight: 600;
+  font-size: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
+  min-width: 100px;
+}
+
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-size: 16px;
+  z-index: 1000;
+}
+.card {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 1em;
+}
+
+th {
+  white-space: nowrap;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+th,
+td {
+  vertical-align: top;
+  padding-bottom: 5px;
+}
+
+/* Medium devices (landscape tablets, 768px and down) */
+@media only screen and (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+  h1 {
+    font-size: 20px;
+  }
+  header {
+    font-size: 14px;
+  }
+  th {
+    font-size: 14px;
+  }
+  td {
+    font-size: 12px;
+  }
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 12px;
+  }
+  h1 {
+    font-size: 25px;
+  }
+  header {
+    font-size: 12px;
+  }
+  th {
+    font-size: 12px;
+  }
+  td {
+    font-size: 10px;
+  }
+}

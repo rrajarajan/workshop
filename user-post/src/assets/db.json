@@ -1,0 +1,24 @@
+{
+    "skills": [
+        {
+            "frontend": "HTML5, CSS3, Javascript, SaSS, Less, ES6, TypeScript, REACT, REDUX, ANGULAR4+, Jest, API Development, Web Services, RESFul API, NPM, GIT BITBUCKET, GOOGLE API, Accessibility, WCAG2.0,",
+            "fullstack": "MERN, .NET, LAMP, MAMP, Node.js, GrahpQL, ASP.NET, C#, PHP, Microservices, SCI/CD, Jenkins, Azure, Worpress, CodeIdeignitor, MSSQL, MongoDB, MySQL, AWS Lamda, AWS Lex, AWS Sagemaker, Python, Panda, Machine Learning, Deep Learning, Cybersecurity, Network Architecture, PenTest, Ethical Hacking",
+            "ux": "FIGMA, Photoshop, Axure, Wireframe, Prototype, AGILE, SCRUM, Confluence, JIRA, SDLC, Trello, cPMBOK, AB/ Testing, WebMonkey, LiveChat, SEO optimisation, GTM. "
+        }
+    ],
+    "projects":[
+        {
+            "fintech":"As part of the Fintech course through Monash, currently involved in building Real Time Algorithmics Trading Platforms, RoboAdvisor, Stock Market Predictors and Sentiment Analyser Bots. Utilising my experience with Python, Panda, AWS Lex, AWS Lamda, AWS Sagemaker, Keras and Tensorflow ",
+            "anz": "Payment Repairs App – Application was built with HTML5, CSS, Javascript(ES6), REACT, Node.js, MongoDB and GraphQL. Integrating with the API backend to provide a complete end to end system. ",
+            "jemana": "Travel Booking Form - Built the travel booking form used by Internal staff to book and confirm flight details, hotel information and rental facilities. The system was used by accounts to keep record of traveling costs. ",
+            "deakin": "deakin.edu.au - Development and maintained the deakin.edu.au website on SQUIZ. This included using JQUERY, REACT and other Javascript libraries’ to build interactives to enhance the user experience. Use HTML5 and CSS3 to build number 1 ranked University webpages. ",
+            "deakin2": "openday-deakin.edu.au – Integrated Wordpress, AWS and javascript to an interactive microsite for deakin university’s open day.   ",
+            "telstra": "TPS - Built a web application with .NET and REACT enabling the Telstra Pricing Team to build Telstra Bundles. The application enabled the team to add Components, Specifications Services to the bundle, determine the cost for the bundle and overall Profit Margin.",
+            "esa": "Online Learning - Provided digital services and solutions for many primary and secondary education institutes such as ACARA, HTAA, ACER and ASTA ",
+            "ibm": "NDIS eCommerce Website - Built an eCommerce website that is used by people with disability for the NDIS project. The site was AAA compliant and provided an environment where people with disability were able to purchase wheelchair, hearing aids and other items.",
+            "metlink": "2006 Commonwealth Games – Worked closely with Vision Australia to build AA compliant public transport information to help Visitors, officials and public to travel around Melbourne during the games.",
+            "swinburne": "LTS– Created online material and repository and Swinburne courses. Utilising ‘Blackboard’ Learning Management System to create online learning experience. ",
+            "ola": "Creation of Swinburne Online Courses for Open University Australia."
+        }
+    ]
+}
